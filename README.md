@@ -6,7 +6,6 @@
 
 这里有[更新说明](./UPGRADE.md)
 
-新项目（另一个项目）链接：https://dm.iuv520.com
 
 ## 使用说明
 
@@ -100,7 +99,7 @@ ps. 有一些注意事项在此补充
 
 我才知道微信群上限是200人，过了还要邀请。。
 
-<img src="https://user-images.githubusercontent.com/9566402/186336485-bdf27f75-161f-4a1d-8de6-9af6972d142a.png" width="300px" />
+<img src="https://github.com/user-attachments/assets/a8c86692-5679-4a34-bee9-f7467b132cd7" width="300px" />
 <img src="https://user-images.githubusercontent.com/9566402/186464691-61529ffc-e5e8-42d6-8f39-1516ca4d3738.jpg" width="300px" />
 
 如果觉得这个项目对你有用，欢迎给我买杯咖啡

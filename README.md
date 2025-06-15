@@ -81,24 +81,17 @@ ps. 有一些注意事项在此补充
 >
 > 大家喜欢我的项目我真的十分感谢，不过有朋友说找不到我本人。对于涨粉丝这件事情我还是很感兴趣的。。
 
-**我的小红书昵称==抖音昵称==微博账号==一切社交平台==“纠结当道”**
-
-并且都是柯南的头像，请认准 ID，谨防假冒。
-
-![WechatIMG1](https://user-images.githubusercontent.com/9566402/185802023-1f28c90a-40e7-446e-8dad-420c83f83e38.jpeg)
-![WechatIMG2](https://user-images.githubusercontent.com/9566402/185802026-ef7c1b99-66a8-4535-a6a4-804677657667.jpeg)
-
 
 ## 自我推广
 
 本人在维护一套全新的闭源平台，不过要收费。
 
-可以让大家完善地自定义各种字段，模板内容。如果大家愿意，可以通过[链接](https://dm.iuv520.com)查看。但请注意，此群只解答新版推送平台相关的内容，与本项目相关的内容请勿进群。
+可以让大家完善地自定义各种字段，模板内容。如果大家愿意，可以通过查但请注意，此群只解答新版推送平台相关的内容，与本项目相关的内容请勿进群。
 
 下方是开源版的QQ群，有需要可以添加。
 
-我才知道微信群上限是200人，过了还要邀请。。
-
+我才知道微信群上限是200人，过了还要邀请。
+<img src="https://github.com/user-attachments/assets/d639d7b2-bbd8-4213-aaff-158dd34fce63" width="300px" />
 <img src="https://github.com/user-attachments/assets/a8c86692-5679-4a34-bee9-f7467b132cd7" width="300px" />
 <img src="https://github.com/user-attachments/assets/e2cde89f-944e-4ed2-a9a7-419a683c995d" width="300px" />
 

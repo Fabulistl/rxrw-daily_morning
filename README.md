@@ -100,7 +100,7 @@ ps. 有一些注意事项在此补充
 我才知道微信群上限是200人，过了还要邀请。。
 
 <img src="https://github.com/user-attachments/assets/a8c86692-5679-4a34-bee9-f7467b132cd7" width="300px" />
-<img src="https://user-images.githubusercontent.com/9566402/186464691-61529ffc-e5e8-42d6-8f39-1516ca4d3738.jpg" width="300px" />
+<img src="https://github.com/user-attachments/assets/e2cde89f-944e-4ed2-a9a7-419a683c995d" width="300px" />
 
 如果觉得这个项目对你有用，欢迎给我买杯咖啡
 
